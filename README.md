@@ -32,4 +32,4 @@ The system is composed of the following core components:
 ## Dataset Used
 You can use any dataset, we are mainly interested in operation side of Data Engineering (building data pipeline) 
 
-Here is the dataset used in the video - https://github.com/darshilparmar/stock-market-kafka-de-project/blob/main/indexProcessed.csv
+Here is the dataset used in the video - https://github.com/shanmukhi-developer/stock-market-kafka-de-project/blob/main/indexProcessed.csv
